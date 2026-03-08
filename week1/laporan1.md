@@ -1,3 +1,6 @@
+MUHAMMAD ZAKI OKTARUNA
+103072400001
+
 # Laporan Praktikum Jarkom IF 
 
 # Tujuan Percobaan 
