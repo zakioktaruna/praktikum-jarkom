@@ -17,19 +17,19 @@ Mempelajari step pertama Wireshark
 8. Pilih salah satu "http" yang memiliki informasi "GET Request', kemudian lihat source addressnya dan buka cmd ketikkan "ipconfig" kemudian bandingkan source di Wireshark dengan IPv4 Adress di CMD sama yaitu 192.168.1.4 menandakan bahwa paket HTTP GET berasal dari device yang sama kita gunakan
 
 ## Lampiran 
-Gambar untuk no 3: ![Gambar No 3](../assets/image/Stop%20Capturing%20Packet%20n%20Start%20Capturing%20Packet.png)
+Gambar untuk no 3: ![Gambar No 3](../assets/image/week2/Stop%20Capturing%20Packet%20n%20Start%20Capturing%20Packet.png)
 
 
-Gambar untuk no 4: ![Gambar No 4](../assets/image/Filter%20TCP.png)
+Gambar untuk no 4: ![Gambar No 4](../assets/image/week2/Filter%20TCP.png)
 
 
-Gambar untuk no 5: ![Gambar No 5](../assets/image/Link%20Test%20TCP.png)
+Gambar untuk no 5: ![Gambar No 5](../assets/image/week2/Link%20Test%20TCP.png)
 
 
-Gambar untuk no 6: ![Gambar No 6](../assets/image/Berhasil%20Test%20TCP.png)
+Gambar untuk no 6: ![Gambar No 6](../assets/image/week2/Berhasil%20Test%20TCP.png)
 
 
-Gambar untuk no 7 dan 8: ![Gambar No 7 n 8](../assets/image/Filter%20HTTP.png)
+Gambar untuk no 7 dan 8: ![Gambar No 7 n 8](../assets/image/week2/Filter%20HTTP.png)
 
 
 
