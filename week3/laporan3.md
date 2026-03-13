@@ -2,11 +2,11 @@
 
 ## Modul 3 – HTTP
 
-**Nama:** [MUHAMMAD ZAKI OKTARUNA]  
-**NIM:** [103072400001]  
+**Nama:** MUHAMMAD ZAKI OKTARUNA  
+**NIM:** 103072400001 
 
 ## Tujuan
-Memahami semua cara kerja protokol **HTTP** dan menganalisis komunikasi antara browser dengan server menggunakan **Wireshark**
+Memahami semua cara kerja protokol HTTP dan menganalisis komunikasi antara browser dengan server menggunakan Wireshark
 
 ## Percobaan Praktikum
 
@@ -15,7 +15,7 @@ Memahami semua cara kerja protokol **HTTP** dan menganalisis komunikasi antara b
 #### Langkah
 1. Jalankan Wireshark dan gunakan filter: `http`
 2. Mulai capture paket
-3. Buka browser dan akses: `http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html`
+3. Buka browser dan akses: (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file1.html)
 4. Hentikan capture setelah halaman muncul
 
 #### Hasil
@@ -27,7 +27,7 @@ Terlihat dua pesan utama: **HTTP GET (Request)** Browser meminta file dari serve
 #### Langkah
 1. Setiap memulai step awal bersihkan cache browser
 2. Start capture Wireshark
-3. Akses: `http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html`
+3. Akses: (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file2.html)
 4. Refresh halaman
 5. Stop capture
 
@@ -38,7 +38,7 @@ memanfaatkan header If-Modified-Since untuk validasi berkas. Jika versi berkas d
 
 ## Langkah
 1. Start capture.
-2. Buka: `http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html`
+2. Buka: (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file3.html)
 3. Stop capture.
 
 ## Hasil
@@ -48,7 +48,7 @@ Analisis paket menunjukkan bahwa peramban melakukan request HTTP standar untuk m
 
 ## Langkah
 1. Start capture.
-2. Akses: `http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html`
+2. Akses: (http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html)
 3. Stop capture.
 
 ## Hasil
@@ -63,7 +63,7 @@ Pada hasil capture Wireshark terlihat beberapa request HTTP:
 
 ## Langkah
 1. Start capture.
-2. Akses: `http://gaia.cs.umass.edu/wireshark-labs/protected_pages/HTTP-wireshark-file5.html`
+2. Akses: (http://gaia.cs.umass.edu/wireshark-labs/protected_pages/HTTP-wireshark-file5.html)
 3. Login menggunakan: username: `wireshark-students` password: `network`
 4. Stop capture.
 
