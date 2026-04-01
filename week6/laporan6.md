@@ -64,7 +64,7 @@ Analisis:
 ![4 ke 3](../assets/week6/4ke3.png)
 5. Beragam untuk length semua ke 6 segmen tcp pertama yaitu : 62, 62, 54, 619, 1514, 60
 ![Gambar Length](../assets/week6/Gambar%20Length.png)
-6.Tertera win itu buffer, setelah dilihat dan ditelusuri lebih lanjut tidak ada karena tidak ada yang 0 atau terhambat
+6. Tertera win itu buffer, setelah dilihat dan ditelusuri lebih lanjut tidak ada karena tidak ada yang 0 atau terhambat
 ![Gambar Win itu Buffer](../assets/week6/Gambar%20Win%20Buffer.png)
 7. Tidak ada tcp retransmisi
 ![Gambar TCP Retransmisi](../assets/week6/Gambar%20TCP%20Retransmisi.png)
