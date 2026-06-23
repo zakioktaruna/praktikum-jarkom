@@ -1,6 +1,6 @@
 # Laporan Praktikum Jaringan Komputer
 
-## Modul 12 – ICMP
+## Modul 13 - Ethernet Dan Arp
 
 **Nama:** MUHAMMAD ZAKI OKTARUNA  
 **NIM:** 103072400001 
